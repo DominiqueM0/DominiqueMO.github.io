@@ -1,0 +1,12 @@
+
+
+chemin d'accès au depot github : 
+
+Accès génériques : 
+
+https://raw.githubusercontent.com/DominiqueM0/DominiqueMO.github.io/
+
+
+Zones administratives
+
+https://raw.githubusercontent.com/DominiqueM0/DominiqueMO.github.io/ZonesAdministratives/
